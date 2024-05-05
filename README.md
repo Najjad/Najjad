@@ -8,7 +8,7 @@ As a student, I'm dedicated to honing my coding abilities and contributing to th
 
 * 🌍  I'm based in Abu Dhabi, UAE
 * ✉️  You can contact me at [najjadzeenni19@gmail.com](mailto:najjadzeenni19@gmail.com)
-  * 🧠  I'm learning Node.js/Svelte
+* 🧠  I'm learning Node.js/Svelte
 * ⚡  Student
 
 ### Skills
