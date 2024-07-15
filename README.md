@@ -6,6 +6,8 @@ Frontend/Backend
 
 As a student, I'm dedicated to honing my coding abilities and contributing to the tech community. Looking forward to sharing my projects and collaborating with fellow developers on GitHub.
 
+[Checkout my website](https://najjadzeenni.com)
+
 * 🌍  I'm based in Abu Dhabi, UAE
 * ✉️  You can contact me at [najjadzeenni19@gmail.com](mailto:najjadzeenni19@gmail.com)
 * 🧠  I'm learning Node.js/Svelte
